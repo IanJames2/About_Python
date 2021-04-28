@@ -1,0 +1,14 @@
+Web Fundamentals 
+Mandatory Assignment
+Difficulty Level: Intermediate
+Est. Time: 2 - 6 hrs
+About Python
+Break down the image below into proper HTML and CSS. Feel free to download the assignment here: Python
+
+Before you submit your work:
+
+Remember that you're here to learn: Don't try to find the original source code of these images.
+Use images here for this exercise.
+Make sure you've validated your HTML and that you're not using any float: left or right.
+For the ">>" on the list, don't worry about making it look exactly like >>. You can just use a normal circle for this assignment.
+Do NOT make this responsive.  Just make this work for a fixed width (set the width to be 970px).  You will go through our responsive design course later. For now, try to master the CSS principles for fixed width first.

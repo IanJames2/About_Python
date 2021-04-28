@@ -1,0 +1,114 @@
+﻿* {
+    background-color:white;
+    margin: 0 auto;
+}
+#wrapper{
+    width: 970px;
+    height: 1200px;
+}
+#top {
+    width:970px;
+    height:97px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    background-color:navy;
+}
+.searchbar {
+    width:35px;
+    height:48.5px;
+    background-color:black;
+}
+button{
+    border:thin;
+    border-color:white;
+}
+#header {
+    color: white;
+    width: 970px;
+    height: 97px;
+    background-color:navy;
+}
+.ul1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid;
+    background-color:deepskyblue;
+    border-color: deepskyblue;
+    margin-top:50px;
+    color:goldenrod;
+}
+
+/*header2{
+    color:gold;
+}*/
+
+#main1{
+    display: flex;
+    text-align:center;
+    background-color:navy;
+}
+.ul2 {
+    text-align:center;
+    margin: 10px;
+}
+.MainBox1 {
+    margin: 10px;
+    padding-left:100px;
+    background-color:navy;
+}
+p0 {
+    color: white;
+    font-style: oblique;
+    text-align: center;
+    vertical-align: middle;
+}
+ul3 {
+    color:goldenrod;
+    font-size: medium;
+    text-align: center;
+    vertical-align: middle;
+}
+p1 {
+    color: white;
+    font-size: unset;
+    text-align: center;
+    vertical-align: middle;
+}
+#main2 {
+    display: flex;
+    text-align:center;
+    background-color:white;
+}
+.MainBox2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-indent: each-line;
+}
+h6 {
+    text-align:center;
+    font-size:large;
+    justify-content: space-between;
+}
+.MainBox3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-indent: each-line;
+}
+#footer {
+    text-align: center;
+    padding-top: 90px;
+    justify-content: space-between;
+    background-color:navy;
+}
+ul6 {
+    display: flex;
+    justify-content: space-between;
+}
+footer {
+    text-align:center;
+    padding-top:50px;
+}
